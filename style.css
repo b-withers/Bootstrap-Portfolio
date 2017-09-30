@@ -1,0 +1,25 @@
+
+
+.navbar-brand{
+	color: green!important;
+	background-color: orange;
+	font-size: 24px;
+}
+
+.col-lg-6{
+	color: green!important;
+	padding-left: 60px;
+	font-size: 18px;
+}
+
+.copy{
+	text-align: center;
+}
+
+.navright {
+ font-size: 24px;
+}
+
+.bio{
+	font-size: 18px;
+}
