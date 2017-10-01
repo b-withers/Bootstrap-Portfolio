@@ -1,4 +1,6 @@
-
+body{
+	background-image: url("hypnotize.png")
+}
 
 .navbar-brand{
 	color: white!important;
