@@ -12,6 +12,7 @@ body{
 .connect{
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	color: #4aaaa5!important;
+	padding-right: 10px;
 }
 
 .copy{
@@ -31,7 +32,6 @@ body{
 .about{
 	color: #4aaaa5;
 	font-family: 'Georgia', Times, Times New Roman, serif;
-	padding-left: 20px;
 }
 .container{
 	background-color: gray;
@@ -40,3 +40,14 @@ body{
 	border-top-width: 5px;
 	border-top-color: #4aaaa5;
 }
+
+.footer{
+	background-color: gray;
+}
+
+#box2{
+
+	padding-bottom: 5px;
+	padding-right: 5px;
+}
+
